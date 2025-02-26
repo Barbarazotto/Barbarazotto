@@ -1,6 +1,11 @@
 ## **Sobre Mim**
 
 Olá, meu nome é ***Bárbara Santana Zotto***, mas a maioria das pessoas me chama de _Babi_. Nasci no dia **18/10/2008**, e atualmente tenho **16 anos**. Moro com meus pais e meu irmão, e temos **2 cachorras**: uma **Yorkshire** e uma **vira-lata**. Sou apaixonada por tecnologia e sempre estou em busca de aprender mais!
+#### **Minhas cachorras*:
+
+<img scr="blob:https://web.whatsapp.com/e323f695-9189-47e9-a529-ca0408a92bb8" alt= "Imagem da minha cachorra vira-lata" width="80" height="90">
+
+
 
 ## **Estudos**
 
