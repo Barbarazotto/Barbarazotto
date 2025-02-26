@@ -2,7 +2,6 @@
 
 Olá, meu nome é ***Bárbara Santana Zotto***, mas a maioria das pessoas me chama de _Babi_. Nasci no dia **18/10/2008**, e atualmente tenho **16 anos**. Moro com meus pais e meu irmão, e temos **2 cachorras**: uma **Yorkshire** e uma **vira-lata**. Sou apaixonada por tecnologia e sempre estou em busca de aprender mais!
 
-
 ## **📚 Estudos**
 
 Atualmente, estou no **2º ano do Ensino Médio** no **Sesi Vila Leopoldina**, com aulas às **Segundas, Terças e Quintas**. Além disso, nas **Quartas e Sextas**, faço um curso de **Tecnologia da Informação** no **Senai Ipiranga**.
