@@ -16,7 +16,7 @@ Desde o **Ensino Fundamental II**, eu já sabia que queria seguir carreira na á
 - Desenvolvimento Web e Mobile
 - Criação de Aplicativos Móveis
 
-O meu objetivo é me tornar uma profissional capacitada e contribuir para a inovação tecnológica.
+O meu objetivo é me tornar uma profissional capacitada e realizar esse sonho de aprender programação.
 
 ## **🎧 Gostos Pessoais e Tempo Livre**
 
@@ -27,9 +27,3 @@ Quando estou fora dos estudos, adoro passar o tempo livre ouvindo **música**. S
 
 
 Além disso, sou muito ligada a **animais**. Quando era criança, meu sonho era ser **veterinária**. Gosto de **ler livros**, especialmente **romances**, e amo assistir **filmes antigos de romance**. Também aproveito o tempo livre jogando com meus amigos e passando momentos com minha família.
-
-## **Contato**
-
-Se você quiser trocar ideias sobre tecnologia ou qualquer outro assunto, fique à vontade para me mandar uma mensagem!
-
-- **E-mail**: [zotto.s.barbara@gmail.com]
