@@ -7,7 +7,7 @@ Olá, meu nome é ***Bárbara Santana Zotto***, mas a maioria das pessoas me cha
 
 ## **📚 Estudos**
 
-Atualmente, estou no **2º ano do Ensino Médio** no **Sesi Vila Leopoldina**, com aulas às **Segundas, Terças e Quintas**. Além disso, nas **Quartas e Sextas**, faço um curso de **Tecnologia da Informação** no **Senai Ipiranga**.
+Atualmente, estou no **2º ano do Ensino Médio** no **Sesi Vila Leopoldina**, com aulas às **Segundas, Terças e Quintas**. Além disso, nas **Quartas e Sextas**, faço um curso de **Desenvolvimento de Sistemas** no **Senai Ipiranga**.
 
 ## **🚀 Futuro**
 
